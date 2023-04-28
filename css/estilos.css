@@ -1,0 +1,22 @@
+*{margin:0;}
+
+body
+{   display:flex;
+    align-items:center;
+    flex-direction: column;
+    justify-content:;
+    overflow-x:hidden;
+    background:#df9cbd; /*comentarios*/
+}
+
+nav, header
+{
+    width:100vw;
+    height:10vh;
+    background:rgb(255, 220, 243);
+    border:1px solid white;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+header{height:50vh;width:100vw; background:rgb(255, 198, 217);}
